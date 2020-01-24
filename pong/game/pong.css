@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'josephin-sans'; /*a name to be used later*/
+    src: url('../josefin-sans/JosefinSans-Thin.ttf'); /*URL to font*/
+}
+p
+{
+    cursor: pointer;
+    position: fixed;
+    font: 60px josephin-sans ;
+    font-weight: 0;
+    margin: 0;
+    left: 10px;
+    top: 10px;
+    color: #4DC53A;
+    
+}
+body 
+{
+    background: #202020;
+    
+    height: 100vh;
+    top: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+canvas
+{
+    border: solid 1px #fff;
+    border-left: none;
+    border-right: none;
+    margin: 0 auto;
+    
+}
