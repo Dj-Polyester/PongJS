@@ -27,8 +27,6 @@ body
 canvas
 {
     border: solid 1px #fff;
-    border-left: none;
-    border-right: none;
     margin: 0 auto;
     
 }
