@@ -1,9 +1,6 @@
 # PongJS
 A Pong game made via JavaScript.
 
-**Note**
-
-**(1)** The game is not stable on firefox at this state. 
-
-**(2)** When the ball is significantly fast relative to the player, the game becomes buggy - Especially 
-in difficulty *Crazy*.
+![Start](/readme_imgs/start.png)
+![Difficulty](/readme_imgs/difficulty.png)
+![Game](/readme_imgs/game.png)
